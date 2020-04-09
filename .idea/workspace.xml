@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4662bded-21a0-448d-ae2a-39e4b0a45cbe" name="Default Changelist" comment="" />
+    <list default="true" id="4662bded-21a0-448d-ae2a-39e4b0a45cbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcAndProto/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcAndProto/message/message.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcAndProto/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_client.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +38,23 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aIPfwNLVtQiH3Cce5FitJCsORs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
@@ -47,7 +64,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
     <configuration name="go build rpc_test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -86,10 +103,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="153" key="#go_build_rpc_test/0.0.1920.1040@0.0.1920.1040" timestamp="1586439640155" />
-    <state x="722" y="143" key="SettingsEditor" timestamp="1586440439727">
+    <state x="722" y="143" key="SettingsEditor" timestamp="1586442841707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="722" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586440439727" />
+    <state x="722" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586442841707" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586440117553">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
