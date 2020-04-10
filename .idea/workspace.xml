@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4662bded-21a0-448d-ae2a-39e4b0a45cbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpcAndProto/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpcAndProto/message/message.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpcAndProto/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpcDemo/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpcDemo/message/message.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpcDemo/server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sync_client.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,6 +92,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Go_Modules_(vgo)" timestamp="1586517615131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Go_Modules_(vgo)/0.0.1920.1040@0.0.1920.1040" timestamp="1586517615131" />
     <state x="679" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586425473145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -103,6 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="153" key="#go_build_rpc_test/0.0.1920.1040@0.0.1920.1040" timestamp="1586439640155" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586450432696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586450432696" />
     <state x="722" y="143" key="SettingsEditor" timestamp="1586442841707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
